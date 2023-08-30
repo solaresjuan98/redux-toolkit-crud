@@ -1,0 +1,158 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "fecha": "2023-08-30",
+      "descripcion": "Compra de comestibles",
+      "monto": 50.25,
+      "tipo": "gasto"
+    },
+    {
+      "id": 2,
+      "fecha": "2023-08-29",
+      "descripcion": "Pago de factura de servicios",
+      "monto": 120,
+      "tipo": "gasto"
+    },
+    {
+      "id": 3,
+      "fecha": "2023-08-28",
+      "descripcion": "Depósito de nómina",
+      "monto": 1500,
+      "tipo": "ingreso"
+    },
+    {
+      "id": 4,
+      "fecha": "2023-08-27",
+      "descripcion": "Compra en línea",
+      "monto": 75.99,
+      "tipo": "gasto"
+    },
+    {
+      "id": 5,
+      "fecha": "2023-08-26",
+      "descripcion": "Transferencia a amigo",
+      "monto": 30,
+      "tipo": "gasto"
+    },
+    {
+      "id": 6,
+      "fecha": "2023-08-25",
+      "descripcion": "Devolución de compra",
+      "monto": 20,
+      "tipo": "ingreso"
+    },
+    {
+      "id": 7,
+      "fecha": "2023-08-24",
+      "descripcion": "Pago de alquiler",
+      "monto": 500,
+      "tipo": "gasto"
+    },
+    {
+      "id": 8,
+      "fecha": "2023-08-23",
+      "descripcion": "Compra de ropa",
+      "monto": 80.5,
+      "tipo": "gasto"
+    },
+    {
+      "id": 9,
+      "fecha": "2023-08-22",
+      "descripcion": "Reembolso médico",
+      "monto": 200,
+      "tipo": "ingreso"
+    },
+    {
+      "id": 10,
+      "fecha": "2023-08-21",
+      "descripcion": "Cena en restaurante",
+      "monto": 45.75,
+      "tipo": "gasto"
+    },
+    {
+      "id": 11,
+      "fecha": "2023-08-20",
+      "descripcion": "Pago de tarjeta de crédito",
+      "monto": 150,
+      "tipo": "gasto"
+    },
+    {
+      "id": 12,
+      "fecha": "2023-08-19",
+      "descripcion": "Ingreso freelance",
+      "monto": 300,
+      "tipo": "ingreso"
+    },
+    {
+      "id": 13,
+      "fecha": "2023-08-18",
+      "descripcion": "Compra de regalos",
+      "monto": 60.25,
+      "tipo": "gasto"
+    },
+    {
+      "id": 14,
+      "fecha": "2023-08-17",
+      "descripcion": "Pago de préstamo",
+      "monto": 200,
+      "tipo": "gasto"
+    },
+    {
+      "id": 15,
+      "fecha": "2023-08-16",
+      "descripcion": "Venta de artículo usado",
+      "monto": 50,
+      "tipo": "ingreso"
+    },
+    {
+      "id": 16,
+      "fecha": "2023-08-15",
+      "descripcion": "Gasolina",
+      "monto": 40,
+      "tipo": "gasto"
+    },
+    {
+      "id": 17,
+      "fecha": "2023-08-14",
+      "descripcion": "Compra de libros",
+      "monto": 25.5,
+      "tipo": "gasto"
+    },
+    {
+      "id": 18,
+      "fecha": "2023-08-13",
+      "descripcion": "Pago de gimnasio",
+      "monto": 75,
+      "tipo": "gasto"
+    },
+    {
+      "id": 19,
+      "fecha": "2023-08-12",
+      "descripcion": "Ingreso por renta de propiedad",
+      "monto": 800,
+      "tipo": "ingreso"
+    },
+    {
+      "id": 20,
+      "fecha": "2023-08-11",
+      "descripcion": "Compra de electrónicos",
+      "monto": 120.75,
+      "tipo": "gasto"
+    },
+    {
+      "descripcion": "Venta carro",
+      "monto": "25000",
+      "fecha": "2023-08-09",
+      "tipo": "gasto",
+      "id": 22
+    },
+    {
+      "descripcion": "Pague una deuda",
+      "monto": "4500",
+      "fecha": "2023-08-02",
+      "tipo": "gasto",
+      "id": 23
+    }
+  ]
+}

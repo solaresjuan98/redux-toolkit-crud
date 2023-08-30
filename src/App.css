@@ -1,0 +1,48 @@
+.card {
+    background-color: rgb(49, 54, 54);
+    padding: 10px;
+    margin-bottom: 3vh;
+}
+
+li {
+    list-style: none;
+}
+
+.transaction_type {
+    padding: 8px;
+    border-radius: 5px;
+    margin-right: 1vh;
+}
+
+
+.form_input {
+
+    border: none;
+    border-radius: 3px;
+    width: 100%;
+    height: 3vh;
+    margin-top: 15px;
+    
+}
+
+.btn {
+    margin-top: 2vh;
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.btn_delete {
+    color: white;
+    font-weight: bold;
+    background-color: #F01A51;
+}
+
+.btn_add {
+    color: white;
+    font-weight: bold;
+    background-color: #1ABFF0;
+}
+
